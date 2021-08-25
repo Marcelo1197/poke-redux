@@ -8,7 +8,7 @@ Continuar escalando la app a medida que voy incorporando conceptos de Redux
 
 ## Mirala desde tu navegador
 
-Podés probarla y ver el código desde tu navegador entrando [este link de Glitch](https://glitch.com/edit/#!/tutorial-react-podemosaprender)
+Podés probarla y ver el código desde tu navegador entrando [este link de Glitch](https://glitch.com/edit/#!/poke-redux-app)
 
 ## Correr el proyecto localmente
 
